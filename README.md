@@ -1,20 +1,22 @@
 # spam-wa
 
-## install [ termux ]
 
-```
-$ pkg install nodejs && git
-$ git clone https://github.com/ibnusyawall/spam-wa
+$ apt update && upgrade
+$ pkg install git
+$ pkg install nodejs
+$ git clone https://github.com/yamz-11/Spam-WA
 $ npm i
 $ node index
-```
 
-## Description
-```
-input Delay in seconds
-input Number phone
-example : 
-  - Nomor : 0822******
-  - Delay : 12
-    -- delay : 12seconds
-```
+  ----- example -----
+
+  ----- Nomor : 082******
+  ----- Delay : 5
+  ----- delay : 5seconds
+
+
+
+
+
+
+
